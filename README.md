@@ -89,3 +89,9 @@ To further analyze customer growth, I would request the following data sources:
 <div align="center">
     <img src="plot/ss12.png" width="900px" alt="s1">
 </div>
+
+User’s Behaviors Data can show the impact of media campaigns on website visits and user behavior helps to Understand the effectiveness of social media activities.
+
+Customer Acquisition Cost helps evaluate the efficiency of different media channels
+
+Economic and Industry Data determine market demand and set reasonable expectations. it also help evaluate the market environment and adjust strategies
