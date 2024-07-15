@@ -43,3 +43,9 @@ To identify the key factors influencing the growth of new and existing customers
 <div align="center">
     <img src="plot/ss4.png" width="900px" alt="s1">
 </div>
+
+The line chart illustrates the changes in total customer revenue over time. The orange line indicates the revenue data during each TV campaign period, showing a significant increase. In the table below, I have calculated the average revenue increase per week during each TV campaign period compared to normal periods.
+
+<div align="center">
+    <img src="plot/ss5.png" width="900px" alt="s1">
+</div>
