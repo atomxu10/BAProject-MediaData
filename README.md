@@ -49,3 +49,9 @@ The line chart illustrates the changes in total customer revenue over time. The 
 <div align="center">
     <img src="plot/ss5.png" width="900px" alt="s1">
 </div>
+
+The new customers transfer existing customers need one month. Therefore, I included 4 weeks data after the campaign in consideration. And I calculated the average customer growth in each campaign. Combined with total revenue (even if Campaign C was the highest) and ROI calculation, Campaign A had the highest ROI so I will conclude that Campaign A was the most cost-effective at driving customer growth.
+
+<div align="center">
+    <img src="plot/ss6.png" width="900px" alt="s1">
+</div>
