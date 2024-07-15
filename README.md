@@ -86,7 +86,8 @@ I used a simple linear regression model to explore the relationship between bran
 
 To further analyze customer growth, I would request the following data sources:
 
--  **User’s Behaviors Data, Website Data (Page views, unique visitors, conversion rate, time spent on site), Social Media Engagement (Likes, shares, comments)**
+-  **User’s Behaviors Data, Website Data (Page views, unique visitors, conversion rate, time spent on site),
+  and Social Media Engagement (Likes, shares, comments)**
 
 User’s Behaviors Data can show the impact of media campaigns on website visits and user behavior helps to Understand the effectiveness of social media activities.
 
