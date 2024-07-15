@@ -92,8 +92,8 @@ User’s Behaviors Data can show the impact of media campaigns on website visits
 
 - Customer Acquisition Cost (different platform)
 
-Customer Acquisition Cost helps evaluate the efficiency of different media channels.
+Helps evaluate the efficiency of different media channels.
 
 - Economic and Industry Data (Economic growth rates, industry-specific trends) 
 
-Economic and Industry Data determine market demand and set reasonable expectations. it also helps evaluate the market environment and adjust strategies.
+Determine market demand and set reasonable expectations. which also helps evaluate the market environment and adjust strategies.
