@@ -19,7 +19,7 @@ Explain what other benefits the client could get from their TV advertising.
 Using the existing data, how would you help the client answer this?
 What other data sources would you request and why?
 
-I completed the data processing task (data cleaning, analysis, visualization, and modeling) in Excel within two hours. Additionally, I spent one-hour creating presentation slides using PowerPoint.
+I completed the ***data processing task (data cleaning, analysis, visualization, and modeling)*** in **Excel** within 2 hours. Additionally, I spent 1 hour creating presentation slides using **PowerPoint**.
 
 **Content (Powerpoint):**
 <div align="center">
@@ -37,3 +37,4 @@ To determine whether the client was in growth or decline, I divided the nearly t
 <div align="center">
     <img src="plot/ss3.png" width="900px" alt="s1">
 </div>
+
