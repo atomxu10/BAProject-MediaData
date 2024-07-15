@@ -15,6 +15,11 @@ The dataset(Excel) can be found in the [Subscription_Task(3hours).xlsx](https://
 Can you make an educated guess about which campaign (A, B, C) was the most effective at driving customer growth?
 Explain what other benefits the client could get from their TV advertising.
 
-3. The client want you to answer the question "How is media contributing to my business growth?
+3. The client wants you to answer the question "How is media contributing to my business growth?
 Using the existing data, how would you help the client answer this?
 What other data sources would you request and why?
+
+I completed the data processing task (data cleaning, analysis, visualization, and modeling) in Excel within two hours. Additionally, I spent one-hour creating presentation slides using PowerPoint.
+
+**Content:**
+
