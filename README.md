@@ -21,7 +21,7 @@ What other data sources would you request and why?
 
 I completed the ***data processing task (data cleaning, analysis, visualization, and modeling)*** in **Excel** within 2 hours. Additionally, I spent 1 hour creating presentation slides using **PowerPoint**.
 
-**Content (Powerpoint):**
+**Analysis Content (Powerpoint):**
 <div align="center">
     <img src="plot/sss1.png" width="800px" alt="s1">
 </div>
