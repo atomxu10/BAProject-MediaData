@@ -64,3 +64,9 @@ In the meanwhile, As shown in the line chart, during TV campaign periods, both m
 <div align="center">
     <img src="plot/ss8.png" width="900px" alt="s1">
 </div>
+
+To answer the question: "How is media contributing to business growth?" my opinion is to identify an aspect influenced by media. My first thought is customer behavior. In the existing dataset, Brand Awareness is a relevant feature. Then, I would like to explore how customer behavior affects business growth. 
+
+<div align="center">
+    <img src="plot/ss9.png" width="900px" alt="s1">
+</div>
