@@ -65,8 +65,27 @@ In the meanwhile, As shown in the line chart, during TV campaign periods, both m
     <img src="plot/ss8.png" width="900px" alt="s1">
 </div>
 
+
 To answer the question: "How is media contributing to business growth?" my opinion is to identify an aspect influenced by media. My first thought is customer behavior. In the existing dataset, Brand Awareness is a relevant feature. Then, I would like to explore how customer behavior affects business growth. 
 
 <div align="center">
     <img src="plot/ss9.png" width="900px" alt="s1">
+</div>
+
+I used a multiple linear regression model to explore the relationship between media metrics and brand awareness. From the results, we can see that the p-value of some variables, such as TV Campaign Spend and Paid Social Impressions, suggests a strong positive impact on brand awareness. The model's R-squared value indicates that approximately 52.88% of the variance in brand awareness can be explained by these media metrics.
+
+<div align="center">
+    <img src="plot/ss10.png" width="900px" alt="s1">
+</div>
+
+I used a simple linear regression model to explore the relationship between brand awareness and business growth. The results show an R-squared value of 0.704, indicating that 70% of the variation in business growth can be explained by changes in brand awareness. This suggests a strong positive correlation, reinforcing the conclusion that media contributes to business growth by increasing brand awareness.
+
+<div align="center">
+    <img src="plot/ss11.png" width="900px" alt="s1">
+</div>
+
+To further analyze customer growth, I would request the following data sources:
+
+<div align="center">
+    <img src="plot/ss12.png" width="900px" alt="s1">
 </div>
