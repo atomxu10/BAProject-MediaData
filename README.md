@@ -10,3 +10,7 @@ The dataset(Excel) can be found in the [Subscription_Task(3hours).xlsx](https://
 1. Chart the clients New and Existing Customer data.
   Please make it clear what the changes over time are, what are the patterns in the data, is the client in growth or decline?
   Are there key factors that may influence new & existing customer growth. Explore further charting to explain what the relationship between the   factor and client data is.
+
+2. We have included both spend and TV ratings for 3 major campaigns. Describe the relationship between the TV Campaign and the customer data.
+Can you make an educated guess about which campaign (A,B,C) was the most effective at driving customer growth?
+Explain what other benefits the client could get from their TV advertising?
