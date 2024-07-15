@@ -32,4 +32,8 @@ Let's first examine the time series data for new and existing customers. The blu
     <img src="plot/ss2.png" width="900px" alt="s1">
 </div>
 
+To determine whether the client was in growth or decline, I divided the nearly three years of data into three segments, each covering 55 weeks. The bar charts on the right illustrate the total revenue from different customer segments, both showing significant increases. Based on this analysis, we can conclude that the client is in a period of growth.
 
+<div align="center">
+    <img src="plot/ss2.png" width="900px" alt="s1">
+</div>
