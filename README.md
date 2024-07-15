@@ -38,3 +38,8 @@ To determine whether the client was in growth or decline, I divided the nearly t
     <img src="plot/ss3.png" width="900px" alt="s1">
 </div>
 
+To identify the key factors influencing the growth of new and existing customers, I conducted a correlation analysis to assess the strength of associations between variables. Based on the correlation coefficients, we can conclude that PPC brand impressions, paid social impressions, and TV campaigns have the most significant influence on the growth of new customers. For existing customers, paid social impressions, brand awareness, and market share are the most significant influencing factors.
+
+<div align="center">
+    <img src="plot/ss4.png" width="900px" alt="s1">
+</div>
