@@ -23,5 +23,5 @@ I completed the data processing task (data cleaning, analysis, visualization, an
 
 **Content:**
 <div align="center">
-    <img src="plot/s1.png" width="500px" alt="s1">
+    <img src="plot/s1.png" width="1000px" alt="s1">
 </div>
