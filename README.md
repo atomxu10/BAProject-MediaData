@@ -58,3 +58,9 @@ The new customers transfer existing customers need one month. Therefore, I inclu
 <div align="center">
     <img src="plot/ss7.png" width="900px" alt="s1">
 </div>
+
+In the meanwhile, As shown in the line chart, during TV campaign periods, both market share and brand awareness increased significantly.
+
+<div align="center">
+    <img src="plot/ss8.png" width="900px" alt="s1">
+</div>
