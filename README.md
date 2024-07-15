@@ -26,7 +26,10 @@ I completed the data processing task (data cleaning, analysis, visualization, an
     <img src="plot/sss1.png" width="800px" alt="s1">
 </div>
 
-Q1: Chart the clients' New and Existing Customer data. Please make it clear what the changes over time are, what are the patterns in the data, is the client in growth or decline? Are there key factors that may influence new & existing customer growth? Explore further charting to explain what the relationship between the factor and client data is.
+
+
 <div align="center">
     <img src="plot/ss2.png" width="800px" alt="s1">
 </div>
+
+Let's first examine the time series data for new and existing customers. The blue line represents the total revenue for each week over three years. To clarify the trend, I applied the Moving Average method, which is illustrated by the red line. Despite some fluctuations, we can observe a consistent upward trend over time. Significant fluctuations are marked with green circles for low points and red circles for high points. Comparing the different charts, it is evident that these fluctuations occurred at similar times for both new and existing customers. This pattern suggests that the fluctuations might have been influenced by certain campaigns, which will be discussed in more detail later
