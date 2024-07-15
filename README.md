@@ -23,7 +23,7 @@ I completed the data processing task (data cleaning, analysis, visualization, an
 
 **Content (Powerpoint):**
 <div align="center">
-    <img src="plot/ss1.png" width="800px" alt="s1">
+    <img src="plot/sss1.png" width="800px" alt="s1">
 </div>
 
 Q1: Chart the clients' New and Existing Customer data. Please make it clear what the changes over time are, what are the patterns in the data, is the client in growth or decline? Are there key factors that may influence new & existing customer growth? Explore further charting to explain what the relationship between the factor and client data is.
